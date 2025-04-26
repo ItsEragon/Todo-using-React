@@ -13,7 +13,7 @@ It lets users add, edit, complete, and delete tasks easily with a clean and mini
 - React.js
 - HTML5 & CSS3
 
-## 📸 Screenshot
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/e5d9c4db-6b18-4e4e-8fe9-9fdc09e51e40)
 
