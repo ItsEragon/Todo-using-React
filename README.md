@@ -17,4 +17,10 @@ It lets users add, edit, complete, and delete tasks easily with a clean and mini
 
 ![image](https://github.com/user-attachments/assets/e5d9c4db-6b18-4e4e-8fe9-9fdc09e51e40)
 
+## Getting Started
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+npm install
+npm start
 
