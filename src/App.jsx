@@ -18,7 +18,6 @@ function App() {
     }
   }, [])
 
-
   const saveToLS = (params) => {
     localStorage.setItem("todos", JSON.stringify(todos))
   }
@@ -26,8 +25,6 @@ function App() {
   const toggleFinished = (e) => {
     setshowFinished(!showFinished)
   }
-
-
 
   const handleEdit = (e, id) => {
     let t = todos.filter(i => i.id === id)
@@ -67,7 +64,6 @@ function App() {
     setTodos(newTodos)
     saveToLS()
   }
-
 
   return (
     <>
